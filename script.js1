@@ -1,0 +1,26 @@
+/*
+Crie um objeto em JavaScript para colocar dois atributos de um
+produto. Atribua o preço e descrição do produto com o valor “90” e a
+descrição com o valor “Mouse”. Mostre no console o valor dos dois
+atributos.
+*/
+
+
+let computador = {
+    mouse: 90.00,
+    teclado: 70.00
+}
+
+console.log(`O preço do mouse é de : R$${computador.mouse}`);
+console.log(`O preço do teclado é de: R$${computador.teclado}`);
+
+
+
+
+
+
+
+
+
+
+
